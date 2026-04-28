@@ -11,6 +11,8 @@ env/
 
 # Data files (optional)
 #data/*.csv
+data/titanic.csv
+
 
 # DVC cache
 .dvc/cache
