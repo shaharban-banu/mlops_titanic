@@ -4,3 +4,6 @@ fastapi
 uvicorn
 mlflow
 dvc
+prometheus-client
+evidently
+prometheus_fastapi_instrumentator

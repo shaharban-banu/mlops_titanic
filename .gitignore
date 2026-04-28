@@ -27,4 +27,18 @@ mlruns/
 .DS_Store
 Thumbs.db
 
+# ----------------------
+# Evidently Reports
+# ----------------------
+*.html
+drift_report.html
 
+# ----------------------
+# Jupyter
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# Misc
+# ----------------------
+*.sqlite3
