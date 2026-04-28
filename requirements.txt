@@ -5,5 +5,5 @@ uvicorn
 mlflow
 dvc
 prometheus-client
-evidently
+evidently==0.4.16
 prometheus_fastapi_instrumentator
